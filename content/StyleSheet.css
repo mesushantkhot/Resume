@@ -1,0 +1,32 @@
+﻿body {
+}
+/******************************************Header Style Sheet*******************************************************/
+.headerimg
+{
+    
+    height:300px !important;
+    width:1400px;
+}
+/*Menu Style Sheet*/
+.Menu
+{
+   overflow: hidden;
+   position:fixed;
+}
+.glyphicon {
+    font-size: 100px;
+}
+
+
+
+/*Content Style Sheet*/
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+/*Footer Style Sheet*/
